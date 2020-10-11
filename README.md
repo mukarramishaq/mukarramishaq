@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Mukarram Ishaq!
+
+Software Engineer and Fullstack Developer from Lahore, Pakistan.
 
 <!--
 **mukarramishaq/mukarramishaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-mukarramishaq-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/mukarramishaq/)](https://www.linkedin.com/in/mukarramishaq/)
+[![Gmail Badge](https://img.shields.io/badge/-mukarramishaq189@gmail.com-red?style=social&logo=Gmail&link=mailto:mukarramishaq189@gmail.com)](mailto:mukarramishaq189@gmail.com)
+[![Stackoverflow Badge](https://img.shields.io/badge/-mukarramishaq-red?style=social&logo=Stackoverflow&link=https://stackoverflow.com/users/6014717/mukarram-ishaq)](https://stackoverflow.com/users/6014717/mukarram-ishaq)
+[![Discord Badge](https://img.shields.io/discord/764552082257739797?color=blue&label=Chat&logo=Discord&style=social&link=https://discord.com/channels/764552082257739797)](https://discord.com/channels/764552082257739797)
